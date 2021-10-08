@@ -8,6 +8,10 @@ public class GitFirstProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitFirstProjectApplication.class, args);
+
+public void doProcess(){
+
+}
 	}
 
 }
